@@ -1,0 +1,16 @@
+{
+  "name": "gun-ws-server",
+  "version": "1.0.0",
+  "description": "Gun js db ws server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "gun": "^0.2020.1235"
+  }
+}
